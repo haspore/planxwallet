@@ -17,20 +17,7 @@ BANNER
 # List of all task IDs and their descriptions
 TASKS = {
   "m20250212173934013124700001" => "Daily Login",
-  "m20250325174288367185100003" => "Lottery",
-  "m20250212173935519374200019" => "Join the PlanX Community",
-  "m20250212173935571986800022" => "Join the PlanX Channel",
-  "m20250212173935594680500028" => "Follow PlanX on X",
-  "m20250212173935584402900025" => "Join the PlanX Discord",
-  "m20250212173935604389100031" => "Follow PlanX on TikTok",
-  "m20250212173935613755700034" => "Follow PlanX on YouTube",
-  "m20250214173952165258600005" => "Repost a PlanX'post on X",
-  "m20250213173941632390600015" => "Comment a PlanX'post on X",
-  "m20250213173941720460300018" => "Like a PlanX'post on X",
-  "m20250214173952169399300006" => "Quote a PlanX' post and tag 3 of friends on X",
-  "m20250213173941728955700021" => "Share the PlanX video from YouTube to X",
-  "m20250213173941736560000024" => "Share the PlanX video from TikTok to X",
-  "m20250213173941767785900027" => "Read the PlanX Medium article"
+  "m20250325174288367185100003" => "Lottery"
 }
 
 # Tasks to claim only (Daily Login and Lottery)
