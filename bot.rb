@@ -200,7 +200,7 @@ def main
         end
 
         puts "Akun #{username}: Menunggu 100 detik sebelum CLAIM...".yellow
-        sleep 60
+        sleep 5
 
         puts "Akun #{username}: Memproses CLAIM tasks...".yellow
         TASKS.each do |task_id, _|
